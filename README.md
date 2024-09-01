@@ -50,4 +50,7 @@
   <img src="https://streak-stats.demolab.com?user=xhittxc&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/TyeBiz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="TyeBiz" /></a></p><br><br>
+
 ###
